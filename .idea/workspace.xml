@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b5485a-19df-4196-b230-093f13fce533" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.d9df7689990635aeb832323ad9cc7c53.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/css/app.d9df7689990635aeb832323ad9cc7c53.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.bc78c7cfb14f2b37bfa8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/0.bc78c7cfb14f2b37bfa8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.e599e3a8285f27cfac8a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/1.e599e3a8285f27cfac8a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.474e62a493fb74ae4e80.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/2.474e62a493fb74ae4e80.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.d1a606e1e6a8deeb59c4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/3.d1a606e1e6a8deeb59c4.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.ec9a3aff376fff9b35d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/4.ec9a3aff376fff9b35d5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.d05203d950664034cf9a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/5.d05203d950664034cf9a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.cc1ab14c78f4c2e6db30.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/app.cc1ab14c78f4c2e6db30.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.6c6ab1814c766c612428.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/manifest.6c6ab1814c766c612428.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.8649df8ca8032d4914da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/static/js/vendor.8649df8ca8032d4914da.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/app.d9df7689990635aeb832323ad9cc7c53.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/app.d9df7689990635aeb832323ad9cc7c53.css.map" beforeDir="false" />
@@ -46,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/static/js/manifest.6c6ab1814c766c612428.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/vendor.8649df8ca8032d4914da.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/vendor.8649df8ca8032d4914da.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,8 +58,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="269" />
-    <option name="y" value="215" />
+    <option name="x" value="116" />
+    <option name="y" value="24" />
     <option name="width" value="1324" />
     <option name="height" value="822" />
   </component>
@@ -142,35 +119,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529803043656</updated>
-      <workItem from="1529803044879" duration="1593000" />
+      <workItem from="1529803044879" duration="2100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1593000" />
+    <option name="totallyTimeSpent" value="2100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="215" width="1324" height="822" extended-state="0" />
-    <editor active="true" />
+    <frame x="116" y="24" width="1324" height="822" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17574827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17574827" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="npm" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5131034" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5117241" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,18 +156,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/0.bc78c7cfb14f2b37bfa8.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
   </component>
 </project>
