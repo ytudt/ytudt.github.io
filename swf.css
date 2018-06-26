@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    text-align: center;
+    background-color: #f6f6f6;
+}
+
+object:focus {
+    outline: none;
+}
+
+#flashContent {
+    display: none;
+}
